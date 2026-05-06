@@ -1,0 +1,9 @@
+{
+  "name": "SMART ERP",
+  "description": "ระบบ ERP (Enterprise Resource Planning) อัจฉริยะ",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
